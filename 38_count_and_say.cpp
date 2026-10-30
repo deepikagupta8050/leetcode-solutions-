@@ -18,7 +18,7 @@ public:
                 }
             }
 
-            // Add the last group
+            
             temp += to_string(count) + ans.back();
 
             ans = temp;
